@@ -15,6 +15,13 @@ Agente docker listo para self-hosted agent para Azure DevOps y netcore 3.1
   ```
   
 ## 2. Iniciar contenedor a partir de imagen
+
+  <br>
+   Recuerda configurar las variables de entorno como:
+   AZP_URL
+   AZP_TOKEN
+   AZP_AGENT_NAME
+   
  ```bash 
    docker run -e AZP_URL={AzureDevOpsURL}-e AZP_TOKEN={TOKEN} -e AZP_AGENT_NAME=mydockeragent mydockeragent:latest
   ```
