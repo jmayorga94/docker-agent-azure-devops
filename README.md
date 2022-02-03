@@ -20,3 +20,6 @@ Agente docker listo para self-hosted agent para Azure DevOps y netcore 3.1
   ```
  
  ### Listo a empezar a jugar con Azure DevOps y netcore
+ 
+  <br>
+  <img src="images/devops.png" >
