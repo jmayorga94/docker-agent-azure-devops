@@ -3,7 +3,8 @@ Agente docker listo para self-hosted agent para Azure DevOps y netcore 3.1
 
 ### Tecnología Utilizada
 - Azure DevOps 
-- Docker 11
+- Docker
+- Ubuntu
 
 ### Si te gusta el contenido del repositorio no olvides dejar una estrella! ⭐⭐⭐⭐
 
